@@ -7,7 +7,7 @@ class IngredientsHelper
     public $sprinkles = [
         'capacity' => 2,
         'durability' => 0,
-        'flavor' => -1,
+        'flavor' => -2,
         'texture' => 0,
         'calories' => 3,
     ];
