@@ -1,3 +1,11 @@
+# Example:
+Working example ->
+https://cookierecipe.staging.mediavents.nl
+
+calculation code can be found in:
+- app/Http/Livewire/Calculator.php
+- app/Helpers/IngredientsHelper.php
+
 # Assignment
 Today, you set out on the task of perfecting your milk-dunking cookie recipe. All you have to do is find the right balance of ingredients.
 
@@ -51,8 +59,3 @@ Chocolate: capacity 0, durability 0, flavor 5, texture -1, calories 8
 
 Candy: capacity 0, durability -1, flavor 0, texture 5, calories 8
 
-# Example:
-Working copy ->
-https://cookierecipe.staging.mediavents.nl
-
-calculation code can be found in app/Http/Livewire/Calculator.php
